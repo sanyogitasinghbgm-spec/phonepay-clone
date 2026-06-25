@@ -1,0 +1,20 @@
+# Dependency directories
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Production build outputs
+client/dist/
+server/swagger-output.json
+
+# Environment variables
+.env
+client/.env
+server/.env
+
+# Editor and OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+server/npm-debug.log*
