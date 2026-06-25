@@ -6,11 +6,8 @@ A modern, full-stack clone of the PhonePe application featuring user authenticat
 
 ---
 
-## 🚀 Live Links
-- **Frontend (Vercel)**: [Live Demo Link]()
-- **Backend API (Render)**: [API Base URL]()
-- **API Documentation**: `[API Base URL]/api-docs`
-
+## 🚀 Try Live 
+https://phonepay-clone-frontend.vercel.app/
 ---
 
 ## ✨ Features
